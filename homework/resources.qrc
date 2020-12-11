@@ -2,5 +2,7 @@
     <qresource prefix="/new">
         <file>ui_image/Rect-circle.png</file>
         <file>ui_image/Circle-rect.png</file>
+        <file>ui_image/circle_1.png</file>
+        <file>ui_image/circle_2.png</file>
     </qresource>
 </RCC>

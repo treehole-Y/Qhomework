@@ -30,6 +30,16 @@ private slots:
 
     void on_graphic_lineE_14_editingFinished();
 
+    void on_trangle_lineE_2_editingFinished();
+
+    void on_circle_lineE_1_editingFinished();
+
+    void on_circle_lineE_5_editingFinished();
+
+    void on_circle_lineE_2_editingFinished();
+
+    void on_circle_lineE_6_editingFinished();
+
 private:
     Ui::Widget *ui;
 };
