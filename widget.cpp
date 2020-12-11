@@ -13,3 +13,13 @@ Widget::~Widget()
     delete ui;
 }
 
+
+void Widget::on_btn_calculate_clicked()
+{
+    ui->stackedWidget->setCurrentWidget(ui->page_calculate);
+}
+
+void Widget::on_btn_trangle_clicked()
+{
+     ui->stackedWidget->setCurrentWidget(ui->page_trangle);
+}

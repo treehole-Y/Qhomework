@@ -15,6 +15,11 @@ public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
 
+private slots:
+    void on_btn_calculate_clicked();
+
+    void on_btn_trangle_clicked();
+
 private:
     Ui::Widget *ui;
 };
