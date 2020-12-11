@@ -20,6 +20,14 @@ private slots:
 
     void on_btn_trangle_clicked();
 
+    void on_btn_Circle_clicked();
+
+    void on_btn_Graphic_clicked();
+
+    void on_graphic_lineE_1_editingFinished();
+
+    void on_graphic_lineE_7_editingFinished();
+
 private:
     Ui::Widget *ui;
 };
