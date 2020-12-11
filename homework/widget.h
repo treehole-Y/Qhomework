@@ -28,6 +28,8 @@ private slots:
 
     void on_graphic_lineE_7_editingFinished();
 
+    void on_graphic_lineE_14_editingFinished();
+
 private:
     Ui::Widget *ui;
 };

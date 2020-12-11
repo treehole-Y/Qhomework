@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>ui_image/Rect-circle.png</file>
+        <file>ui_image/Circle-rect.png</file>
+    </qresource>
+</RCC>
