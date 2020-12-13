@@ -1,8 +1,14 @@
 <RCC>
     <qresource prefix="/new">
-        <file>ui_image/Rect-circle.png</file>
-        <file>ui_image/Circle-rect.png</file>
         <file>ui_image/circle_1.png</file>
         <file>ui_image/circle_2.png</file>
+        <file>ui_image/image_1.png</file>
+        <file>ui_image/image_2.png</file>
+        <file>ui_image/image_3.png</file>
+        <file>ui_image/image_4.png</file>
+        <file>ui_image/image_7.png</file>
+        <file>ui_image/image_8.png</file>
+        <file>ui_image/image_5.png</file>
+        <file>ui_image/image_6.png</file>
     </qresource>
 </RCC>
